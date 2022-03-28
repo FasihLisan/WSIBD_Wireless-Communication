@@ -1,5 +1,5 @@
 # WSIBD_Wireless-Communication
-<h2>Pengumpulan Source code BKPM Workshop Sistem Informasi Berbasis Dekstop</h2>
+<h2>Pengumpulan Source code BKPM Workshop Sistem Informasi Berbasis Dekstop minggu 2-7</h2>
 <b>KELOMPOK RISET WIRELESS COMMUNICATION: </b>
 <ol>
   <li>ACH. Fasihul Lisan (E41211994)</li>
