@@ -4,7 +4,7 @@
 <ol>
   <li>ACH. Fasihul Lisan (E41211994)</li>
   <li>Lya Nurul Ulla (E41211962)</li>
-  <li>Mohammad Dwiki Rizal Ardana (E41212003)</li>
+  <li>Mohammad Dwiky Riza Ardana (E41212003)</li>
   <li>Fahrizal Arya Wicaksana (E41212224)</li>
   <li>Lukman (E41212165)</li>
 </ol>
